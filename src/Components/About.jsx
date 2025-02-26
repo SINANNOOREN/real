@@ -22,8 +22,8 @@ const About = () => {
   <div>
  <div className='grid grid-cols-2 gap-6 w-full md:gap-10 mt-10'>
 <section >
-<p className='text-4xl font-medium'>10+</p>
-    <p className=' text-gray-500 '>Year of Excellence
+<p className='text-4xl font-medium'>20+</p>
+    <p className=' text-gray-500 '>
     </p>
 </section>
 <section>
@@ -32,13 +32,15 @@ const About = () => {
     </p>
 </section>
 <section>
-<p className='text-4xl font-medium'>10+</p>
-    <p className='text-gray-500'>Year of Excellence
+<p className='text-4xl font-medium'>12+</p>
+    <p className='text-gray-500'>
+
+Projects Completed
     </p>
 </section>
 <section>
-<p className='text-4xl font-medium'>10+</p>
-    <p className='text-gray-500'>Year of Excellence
+<p className='text-4xl font-medium'>20+</p>
+    <p className='text-gray-500'>Mn. Sq. Ft. Delivered
     </p>
 </section>
  </div>  
