@@ -18,7 +18,7 @@ const Footer = () => {
                 <div class="flex gap-2"><input type="email" placeholder="Enter your email" class="p-2 rounded bg-gray-800 text-gray-400 broder border-gray-700 focus:outline-none w-full md:w-auto"/>
       <button class="py-2 px-4 rounded bg-blue-500 text-white">Subscribe</button>
       </div></div></div><div class="border-t border-gray-700 py-4 mt-10  text-center text-gray-500">
-        Copyright 2024 © GreatStack. All Right Reserved.</div></div>
+        Copyright 2024 © fozecode. All Right Reserved.</div></div>
     </div>
   )
 }

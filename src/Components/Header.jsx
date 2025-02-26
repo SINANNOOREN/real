@@ -1,11 +1,7 @@
 import React from 'react'
-import Navbar from './Navbar'
+
 import { motion } from 'framer-motion'
 
-import About from './About'
-import Projects from './Projects'
-
-import Footer from './Footer'
 
 const Header = () => {
   return (

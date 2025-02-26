@@ -14,7 +14,7 @@ const App = () => {
     <div className='w-full overflow-hidden'>
     
     <BrowserRouter>
-     <Navbar/>
+  <Navbar/>
      <Routes>
 
        <Route path="/" element={<Home />} />

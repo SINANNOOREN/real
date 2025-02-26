@@ -40,6 +40,7 @@ const Projects = () => {
       whileInView={{ opacity: 1, x: 0 }}
       className='w-full overflow-hidden container mx-auto px-6 md:px-12 flex-col mb-20'
     >
+      
       <h1 className='text-4xl font-bold mb-2 text-center'>
         Project <span className='underline font-light underline-offset-4 decoration-1'>completed</span>
       </h1>
